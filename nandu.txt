@@ -1,2 +1,0 @@
-nandu  
-git add nandu.txt
